@@ -1,7 +1,3 @@
----
-title: Kubernetes Lab: Exploring and Deploying Microservices on Minikube
-description: Hands-on Kubernetes lab covering Pods, ReplicaSets, Deployments, Services, and cluster exploration.
----
 
 # 🏗️ Kubernetes Lab: Exploring and Deploying Microservices on Minikube
 
